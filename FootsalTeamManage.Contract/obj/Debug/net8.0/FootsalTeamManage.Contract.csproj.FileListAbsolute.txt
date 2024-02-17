@@ -1,0 +1,11 @@
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Contract\bin\Debug\net8.0\FootsalTeamManage.Contract.deps.json
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Contract\bin\Debug\net8.0\FootsalTeamManage.Contract.dll
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Contract\bin\Debug\net8.0\FootsalTeamManage.Contract.pdb
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Contract\obj\Debug\net8.0\FootsalTeamManage.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Contract\obj\Debug\net8.0\FootsalTeamManage.Contract.AssemblyInfoInputs.cache
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Contract\obj\Debug\net8.0\FootsalTeamManage.Contract.AssemblyInfo.cs
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Contract\obj\Debug\net8.0\FootsalTeamManage.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Contract\obj\Debug\net8.0\FootsalTeamManage.Contract.dll
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Contract\obj\Debug\net8.0\refint\FootsalTeamManage.Contract.dll
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Contract\obj\Debug\net8.0\FootsalTeamManage.Contract.pdb
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Contract\obj\Debug\net8.0\ref\FootsalTeamManage.Contract.dll

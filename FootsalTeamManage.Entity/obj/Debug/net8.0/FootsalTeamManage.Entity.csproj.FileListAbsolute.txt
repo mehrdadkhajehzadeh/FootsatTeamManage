@@ -1,0 +1,11 @@
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Entity\bin\Debug\net8.0\FootsalTeamManage.Entity.deps.json
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Entity\bin\Debug\net8.0\FootsalTeamManage.Entity.dll
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Entity\bin\Debug\net8.0\FootsalTeamManage.Entity.pdb
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Entity\obj\Debug\net8.0\FootsalTeamManage.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Entity\obj\Debug\net8.0\FootsalTeamManage.Entity.AssemblyInfoInputs.cache
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Entity\obj\Debug\net8.0\FootsalTeamManage.Entity.AssemblyInfo.cs
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Entity\obj\Debug\net8.0\FootsalTeamManage.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Entity\obj\Debug\net8.0\FootsalTeamManage.Entity.dll
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Entity\obj\Debug\net8.0\refint\FootsalTeamManage.Entity.dll
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Entity\obj\Debug\net8.0\FootsalTeamManage.Entity.pdb
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Entity\obj\Debug\net8.0\ref\FootsalTeamManage.Entity.dll

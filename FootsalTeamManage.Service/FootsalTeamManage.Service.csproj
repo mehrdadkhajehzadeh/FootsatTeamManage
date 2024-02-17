@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FootsalTeamManage.Contract\FootsalTeamManage.Contract.csproj" />
+    <ProjectReference Include="..\FootsalTeamManage.Entity\FootsalTeamManage.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

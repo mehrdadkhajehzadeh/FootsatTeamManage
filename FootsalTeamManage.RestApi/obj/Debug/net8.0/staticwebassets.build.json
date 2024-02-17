@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3qB2dMskP7a8FEAzG629X8wyds6lnIqdFsP2aYOfchk=",
+  "Source": "FootsalTeamManage.RestApi",
+  "BasePath": "_content/FootsalTeamManage.RestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{523CEC91-81AD-46BC-BA78-B61CEF50C5D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00.Package", "00.Package", "{164B079E-D167-46E3-84C3-80BF5A526889}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Core", "01.Core", "{0FFF2902-0A43-4945-8EFD-48368576B923}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Infrastructure", "02.Infrastructure", "{DF680A8E-89AE-4B83-8895-8783F2A15B85}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Presentation", "03.Presentation", "{58E85681-DC71-4126-A691-36D75096159D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootsalTeamManage.Entity", "FootsalTeamManage.Entity\FootsalTeamManage.Entity.csproj", "{D8903BCA-EAAB-42DD-982A-FC52DA90D1DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootsalTeamManage.Service", "FootsalTeamManage.Service\FootsalTeamManage.Service.csproj", "{8BFCDCE6-2A9E-4299-9513-174AEB563771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootsalTeamManage.Infrastructure", "FootsalTeamManage.Infrastructure\FootsalTeamManage.Infrastructure.csproj", "{64599605-0965-4427-864A-2847EB51574C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootsalTeamManage.Migration", "FootsalTeamManage.Migration\FootsalTeamManage.Migration.csproj", "{D6AA3BE2-E2D2-499A-B372-CDCDACF7F4D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootsalTeamManage.persistance", "FootsalTeamManage.persistance\FootsalTeamManage.persistance.csproj", "{79990684-BB4C-4511-9E59-1AFE0D5CD1C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootsalTeamManage.RestApi", "FootsalTeamManage.RestApi\FootsalTeamManage.RestApi.csproj", "{0A633BF3-8892-45A4-B828-636892330020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootsalTeamManage.Contract", "FootsalTeamManage.Contract\FootsalTeamManage.Contract.csproj", "{76DF1E20-A615-4E32-B4A2-14F3FEC91DEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8903BCA-EAAB-42DD-982A-FC52DA90D1DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8903BCA-EAAB-42DD-982A-FC52DA90D1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8903BCA-EAAB-42DD-982A-FC52DA90D1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8903BCA-EAAB-42DD-982A-FC52DA90D1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BFCDCE6-2A9E-4299-9513-174AEB563771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BFCDCE6-2A9E-4299-9513-174AEB563771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BFCDCE6-2A9E-4299-9513-174AEB563771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BFCDCE6-2A9E-4299-9513-174AEB563771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64599605-0965-4427-864A-2847EB51574C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64599605-0965-4427-864A-2847EB51574C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64599605-0965-4427-864A-2847EB51574C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64599605-0965-4427-864A-2847EB51574C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6AA3BE2-E2D2-499A-B372-CDCDACF7F4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6AA3BE2-E2D2-499A-B372-CDCDACF7F4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6AA3BE2-E2D2-499A-B372-CDCDACF7F4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6AA3BE2-E2D2-499A-B372-CDCDACF7F4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79990684-BB4C-4511-9E59-1AFE0D5CD1C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79990684-BB4C-4511-9E59-1AFE0D5CD1C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79990684-BB4C-4511-9E59-1AFE0D5CD1C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79990684-BB4C-4511-9E59-1AFE0D5CD1C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A633BF3-8892-45A4-B828-636892330020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A633BF3-8892-45A4-B828-636892330020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A633BF3-8892-45A4-B828-636892330020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A633BF3-8892-45A4-B828-636892330020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76DF1E20-A615-4E32-B4A2-14F3FEC91DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76DF1E20-A615-4E32-B4A2-14F3FEC91DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76DF1E20-A615-4E32-B4A2-14F3FEC91DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76DF1E20-A615-4E32-B4A2-14F3FEC91DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{164B079E-D167-46E3-84C3-80BF5A526889} = {523CEC91-81AD-46BC-BA78-B61CEF50C5D5}
+		{0FFF2902-0A43-4945-8EFD-48368576B923} = {523CEC91-81AD-46BC-BA78-B61CEF50C5D5}
+		{DF680A8E-89AE-4B83-8895-8783F2A15B85} = {523CEC91-81AD-46BC-BA78-B61CEF50C5D5}
+		{58E85681-DC71-4126-A691-36D75096159D} = {523CEC91-81AD-46BC-BA78-B61CEF50C5D5}
+		{D8903BCA-EAAB-42DD-982A-FC52DA90D1DC} = {0FFF2902-0A43-4945-8EFD-48368576B923}
+		{8BFCDCE6-2A9E-4299-9513-174AEB563771} = {0FFF2902-0A43-4945-8EFD-48368576B923}
+		{64599605-0965-4427-864A-2847EB51574C} = {DF680A8E-89AE-4B83-8895-8783F2A15B85}
+		{D6AA3BE2-E2D2-499A-B372-CDCDACF7F4D6} = {DF680A8E-89AE-4B83-8895-8783F2A15B85}
+		{79990684-BB4C-4511-9E59-1AFE0D5CD1C4} = {DF680A8E-89AE-4B83-8895-8783F2A15B85}
+		{0A633BF3-8892-45A4-B828-636892330020} = {58E85681-DC71-4126-A691-36D75096159D}
+		{76DF1E20-A615-4E32-B4A2-14F3FEC91DEA} = {164B079E-D167-46E3-84C3-80BF5A526889}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98A9ECA7-EE74-4752-A419-5A430747D28E}
+	EndGlobalSection
+EndGlobal

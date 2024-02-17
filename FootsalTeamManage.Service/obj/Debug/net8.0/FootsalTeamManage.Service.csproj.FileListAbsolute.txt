@@ -1,0 +1,17 @@
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Service\bin\Debug\net8.0\FootsalTeamManage.Service.deps.json
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Service\bin\Debug\net8.0\FootsalTeamManage.Service.dll
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Service\bin\Debug\net8.0\FootsalTeamManage.Service.pdb
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Service\bin\Debug\net8.0\FootsalTeamManage.Entity.dll
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Service\bin\Debug\net8.0\FootsalTeamManage.Entity.pdb
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Service\obj\Debug\net8.0\FootsalTeamManage.Service.csproj.AssemblyReference.cache
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Service\obj\Debug\net8.0\FootsalTeamManage.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Service\obj\Debug\net8.0\FootsalTeamManage.Service.AssemblyInfoInputs.cache
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Service\obj\Debug\net8.0\FootsalTeamManage.Service.AssemblyInfo.cs
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Service\obj\Debug\net8.0\FootsalTeamManage.Service.csproj.CoreCompileInputs.cache
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Service\obj\Debug\net8.0\FootsalTeamManage.Service.csproj.CopyComplete
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Service\obj\Debug\net8.0\FootsalTeamManage.Service.dll
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Service\obj\Debug\net8.0\refint\FootsalTeamManage.Service.dll
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Service\obj\Debug\net8.0\FootsalTeamManage.Service.pdb
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Service\obj\Debug\net8.0\ref\FootsalTeamManage.Service.dll
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Service\bin\Debug\net8.0\FootsalTeamManage.Contract.dll
+C:\Users\Novin\source\repos\FootsalTeamManage\FootsalTeamManage.Service\bin\Debug\net8.0\FootsalTeamManage.Contract.pdb
